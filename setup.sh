@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 # setup python flask server
 
 app_name=jenkins-scm-backend
